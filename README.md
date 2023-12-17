@@ -1,210 +1,216 @@
-# logo
+# Logo
 
 ![Elmasy Logo](/logo/blue_transparent_256.png "Elmasy Logo")
 
-## cover
+## `cover/`
 
 OG / Twitter cover images.
 
-- cover/blue_dark.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1500x500, components 3
-- cover/blue_dark.png: PNG image data, 1500 x 500, 8-bit/color RGBA, non-interlaced
-- cover/blue_dark.svg: SVG Scalable Vector Graphics image
-- cover/blue_light.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1500x500, components 3
-- cover/blue_light.png: PNG image data, 1500 x 500, 8-bit/color RGBA, non-interlaced
-- cover/blue_light.svg: SVG Scalable Vector Graphics image
-## logo
+![Cover](cover/blue_dark.jpg "Elmasy Cover")
+
+- `cover/blue_dark.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1500x500, components 3*
+- `cover/blue_dark.png`: *PNG image data, 1500 x 500, 8-bit/color RGBA, non-interlaced*
+- `cover/blue_dark.svg`: *SVG Scalable Vector Graphics image*
+- `cover/blue_light.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1500x500, components 3*
+- `cover/blue_light.png`: *PNG image data, 1500 x 500, 8-bit/color RGBA, non-interlaced*
+- `cover/blue_light.svg`: *SVG Scalable Vector Graphics image*
+
+## `logo/`
 
 Square logos
 
-- logo/blue_full_1024.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1024x1024, components 3
-- logo/blue_full_1024.png: PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced
-- logo/blue_full_1024.svg: SVG Scalable Vector Graphics image
-- logo/blue_full_128.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 128x128, components 3
-- logo/blue_full_128.png: PNG image data, 128 x 128, 8-bit/color RGBA, non-interlaced
-- logo/blue_full_128.svg: SVG Scalable Vector Graphics image
-- logo/blue_full_2048.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 2048x2048, components 3
-- logo/blue_full_2048.png: PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced
-- logo/blue_full_2048.svg: SVG Scalable Vector Graphics image
-- logo/blue_full_256.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 256x256, components 3
-- logo/blue_full_256.png: PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced
-- logo/blue_full_256.svg: SVG Scalable Vector Graphics image
-- logo/blue_full_32.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 32x32, components 3
-- logo/blue_full_32.png: PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
-- logo/blue_full_32.svg: SVG Scalable Vector Graphics image
-- logo/blue_full_4096.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 4096x4096, components 3
-- logo/blue_full_4096.png: PNG image data, 4096 x 4096, 8-bit/color RGBA, non-interlaced
-- logo/blue_full_4096.svg: SVG Scalable Vector Graphics image
-- logo/blue_full_512.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 512x512, components 3
-- logo/blue_full_512.png: PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced
-- logo/blue_full_512.svg: SVG Scalable Vector Graphics image
-- logo/blue_full_64.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 64x64, components 3
-- logo/blue_full_64.png: PNG image data, 64 x 64, 8-bit/color RGBA, non-interlaced
-- logo/blue_full_64.svg: SVG Scalable Vector Graphics image
-- logo/blue_transparent_1024.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1024x1024, components 3
-- logo/blue_transparent_1024.png: PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced
-- logo/blue_transparent_1024.svg: SVG Scalable Vector Graphics image
-- logo/blue_transparent_128.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 129x128, components 3
-- logo/blue_transparent_128.png: PNG image data, 129 x 128, 8-bit/color RGBA, non-interlaced
-- logo/blue_transparent_128.svg: SVG Scalable Vector Graphics image
-- logo/blue_transparent_2048.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 2048x2048, components 3
-- logo/blue_transparent_2048.png: PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced
-- logo/blue_transparent_2048.svg: SVG Scalable Vector Graphics image
-- logo/blue_transparent_256.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 257x256, components 3
-- logo/blue_transparent_256.png: PNG image data, 257 x 256, 8-bit/color RGBA, non-interlaced
-- logo/blue_transparent_256.svg: SVG Scalable Vector Graphics image
-- logo/blue_transparent_32.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 33x32, components 3
-- logo/blue_transparent_32.png: PNG image data, 33 x 32, 8-bit/color RGBA, non-interlaced
-- logo/blue_transparent_32.svg: SVG Scalable Vector Graphics image
-- logo/blue_transparent_4096.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 4096x4096, components 3
-- logo/blue_transparent_4096.png: PNG image data, 4096 x 4096, 8-bit/color RGBA, non-interlaced
-- logo/blue_transparent_4096.svg: SVG Scalable Vector Graphics image
-- logo/blue_transparent_512.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 512x512, components 3
-- logo/blue_transparent_512.png: PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced
-- logo/blue_transparent_512.svg: SVG Scalable Vector Graphics image
-- logo/blue_transparent_64.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 65x64, components 3
-- logo/blue_transparent_64.png: PNG image data, 65 x 64, 8-bit/color RGBA, non-interlaced
-- logo/blue_transparent_64.svg: SVG Scalable Vector Graphics image
-- logo/dark_full_1024.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1024x1024, components 3
-- logo/dark_full_1024.png: PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced
-- logo/dark_full_1024.svg: SVG Scalable Vector Graphics image
-- logo/dark_full_128.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 129x128, components 3
-- logo/dark_full_128.png: PNG image data, 129 x 128, 8-bit/color RGBA, non-interlaced
-- logo/dark_full_128.svg: SVG Scalable Vector Graphics image
-- logo/dark_full_2048.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 2048x2048, components 3
-- logo/dark_full_2048.png: PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced
-- logo/dark_full_2048.svg: SVG Scalable Vector Graphics image
-- logo/dark_full_256.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 256x256, components 3
-- logo/dark_full_256.png: PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced
-- logo/dark_full_256.svg: SVG Scalable Vector Graphics image
-- logo/dark_full_32.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 33x32, components 3
-- logo/dark_full_32.png: PNG image data, 33 x 32, 8-bit/color RGBA, non-interlaced
-- logo/dark_full_32.svg: SVG Scalable Vector Graphics image
-- logo/dark_full_4096.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 4096x4096, components 3
-- logo/dark_full_4096.png: PNG image data, 4096 x 4096, 8-bit/color RGBA, non-interlaced
-- logo/dark_full_4096.svg: SVG Scalable Vector Graphics image
-- logo/dark_full_512.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 512x512, components 3
-- logo/dark_full_512.png: PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced
-- logo/dark_full_512.svg: SVG Scalable Vector Graphics image
-- logo/dark_full_64.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 65x64, components 3
-- logo/dark_full_64.png: PNG image data, 65 x 64, 8-bit/color RGBA, non-interlaced
-- logo/dark_full_64.svg: SVG Scalable Vector Graphics image
-- logo/dark_transparent_1024.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1024x1024, components 3
-- logo/dark_transparent_1024.png: PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced
-- logo/dark_transparent_1024.svg: SVG Scalable Vector Graphics image
-- logo/dark_transparent_128.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 129x128, components 3
-- logo/dark_transparent_128.png: PNG image data, 129 x 128, 8-bit/color RGBA, non-interlaced
-- logo/dark_transparent_128.svg: SVG Scalable Vector Graphics image
-- logo/dark_transparent_2048.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 2048x2048, components 3
-- logo/dark_transparent_2048.png: PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced
-- logo/dark_transparent_2048.svg: SVG Scalable Vector Graphics image
-- logo/dark_transparent_256.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 257x256, components 3
-- logo/dark_transparent_256.png: PNG image data, 257 x 256, 8-bit/color RGBA, non-interlaced
-- logo/dark_transparent_256.svg: SVG Scalable Vector Graphics image
-- logo/dark_transparent_32.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 33x32, components 3
-- logo/dark_transparent_32.png: PNG image data, 33 x 32, 8-bit/color RGBA, non-interlaced
-- logo/dark_transparent_32.svg: SVG Scalable Vector Graphics image
-- logo/dark_transparent_4096.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 4096x4096, components 3
-- logo/dark_transparent_4096.png: PNG image data, 4096 x 4096, 8-bit/color RGBA, non-interlaced
-- logo/dark_transparent_4096.svg: SVG Scalable Vector Graphics image
-- logo/dark_transparent_512.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 512x512, components 3
-- logo/dark_transparent_512.png: PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced
-- logo/dark_transparent_512.svg: SVG Scalable Vector Graphics image
-- logo/dark_transparent_64.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 65x64, components 3
-- logo/dark_transparent_64.png: PNG image data, 65 x 64, 8-bit/color RGBA, non-interlaced
-- logo/dark_transparent_64.svg: SVG Scalable Vector Graphics image
-- logo/light_full_1024.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1024x1024, components 3
-- logo/light_full_1024.png: PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced
-- logo/light_full_1024.svg: SVG Scalable Vector Graphics image
-- logo/light_full_128.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 129x128, components 3
-- logo/light_full_128.png: PNG image data, 129 x 128, 8-bit/color RGBA, non-interlaced
-- logo/light_full_128.svg: SVG Scalable Vector Graphics image
-- logo/light_full_2048.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 2048x2048, components 3
-- logo/light_full_2048.png: PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced
-- logo/light_full_2048.svg: SVG Scalable Vector Graphics image
-- logo/light_full_256.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 256x256, components 3
-- logo/light_full_256.png: PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced
-- logo/light_full_256.svg: SVG Scalable Vector Graphics image
-- logo/light_full_32.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 33x32, components 3
-- logo/light_full_32.png: PNG image data, 33 x 32, 8-bit/color RGBA, non-interlaced
-- logo/light_full_32.svg: SVG Scalable Vector Graphics image
-- logo/light_full_4096.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 4096x4096, components 3
-- logo/light_full_4096.png: PNG image data, 4096 x 4096, 8-bit/color RGBA, non-interlaced
-- logo/light_full_4096.svg: SVG Scalable Vector Graphics image
-- logo/light_full_512.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 512x512, components 3
-- logo/light_full_512.png: PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced
-- logo/light_full_512.svg: SVG Scalable Vector Graphics image
-- logo/light_full_64.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 65x64, components 3
-- logo/light_full_64.png: PNG image data, 65 x 64, 8-bit/color RGBA, non-interlaced
-- logo/light_full_64.svg: SVG Scalable Vector Graphics image
-- logo/light_transparent_1024.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1024x1024, components 3
-- logo/light_transparent_1024.png: PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced
-- logo/light_transparent_1024.svg: SVG Scalable Vector Graphics image
-- logo/light_transparent_128.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 129x128, components 3
-- logo/light_transparent_128.png: PNG image data, 129 x 128, 8-bit/color RGBA, non-interlaced
-- logo/light_transparent_128.svg: SVG Scalable Vector Graphics image
-- logo/light_transparent_2048-1.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 2048x2048, components 3
-- logo/light_transparent_2048-1.png: PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced
-- logo/light_transparent_2048-1.svg: SVG Scalable Vector Graphics image
-- logo/light_transparent_2048.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 4096x4096, components 3
-- logo/light_transparent_2048.png: PNG image data, 4096 x 4096, 8-bit/color RGBA, non-interlaced
-- logo/light_transparent_2048.svg: SVG Scalable Vector Graphics image
-- logo/light_transparent_256.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 257x256, components 3
-- logo/light_transparent_256.png: PNG image data, 257 x 256, 8-bit/color RGBA, non-interlaced
-- logo/light_transparent_256.svg: SVG Scalable Vector Graphics image
-- logo/light_transparent_32.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 33x32, components 3
-- logo/light_transparent_32.png: PNG image data, 33 x 32, 8-bit/color RGBA, non-interlaced
-- logo/light_transparent_32.svg: SVG Scalable Vector Graphics image
-- logo/light_transparent_512.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 512x512, components 3
-- logo/light_transparent_512.png: PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced
-- logo/light_transparent_512.svg: SVG Scalable Vector Graphics image
-- logo/light_transparent_64.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 65x64, components 3
-- logo/light_transparent_64.png: PNG image data, 65 x 64, 8-bit/color RGBA, non-interlaced
-- logo/light_transparent_64.svg: SVG Scalable Vector Graphics image
-- logo/red_full_1024.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1024x1024, components 3
-- logo/red_full_1024.png: PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced
-- logo/red_full_1024.svg: SVG Scalable Vector Graphics image
-- logo/red_full_128.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 128x128, components 3
-- logo/red_full_128.png: PNG image data, 128 x 128, 8-bit/color RGBA, non-interlaced
-- logo/red_full_128.svg: SVG Scalable Vector Graphics image
-- logo/red_full_2048.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 2048x2048, components 3
-- logo/red_full_2048.png: PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced
-- logo/red_full_2048.svg: SVG Scalable Vector Graphics image
-- logo/red_full_256.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 256x256, components 3
-- logo/red_full_256.png: PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced
-- logo/red_full_256.svg: SVG Scalable Vector Graphics image
-- logo/red_full_32.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 33x32, components 3
-- logo/red_full_32.png: PNG image data, 33 x 32, 8-bit/color RGBA, non-interlaced
-- logo/red_full_32.svg: SVG Scalable Vector Graphics image
-- logo/red_full_4096.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 4096x4096, components 3
-- logo/red_full_4096.png: PNG image data, 4096 x 4096, 8-bit/color RGBA, non-interlaced
-- logo/red_full_4096.svg: SVG Scalable Vector Graphics image
-- logo/red_full_512.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 512x512, components 3
-- logo/red_full_512.png: PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced
-- logo/red_full_512.svg: SVG Scalable Vector Graphics image
-- logo/red_full_64.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 65x64, components 3
-- logo/red_full_64.png: PNG image data, 65 x 64, 8-bit/color RGBA, non-interlaced
-- logo/red_full_64.svg: SVG Scalable Vector Graphics image
-- logo/red_transparent_1024.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1024x1024, components 3
-- logo/red_transparent_1024.png: PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced
-- logo/red_transparent_1024.svg: SVG Scalable Vector Graphics image
-- logo/red_transparent_128.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 129x128, components 3
-- logo/red_transparent_128.png: PNG image data, 129 x 128, 8-bit/color RGBA, non-interlaced
-- logo/red_transparent_128.svg: SVG Scalable Vector Graphics image
-- logo/red_transparent_2048.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 2048x2048, components 3
-- logo/red_transparent_2048.png: PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced
-- logo/red_transparent_2048.svg: SVG Scalable Vector Graphics image
-- logo/red_transparent_256.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 257x256, components 3
-- logo/red_transparent_256.png: PNG image data, 257 x 256, 8-bit/color RGBA, non-interlaced
-- logo/red_transparent_256.svg: SVG Scalable Vector Graphics image
-- logo/red_transparent_32.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 33x32, components 3
-- logo/red_transparent_32.png: PNG image data, 33 x 32, 8-bit/color RGBA, non-interlaced
-- logo/red_transparent_32.svg: SVG Scalable Vector Graphics image
-- logo/red_transparent_4096.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 4096x4096, components 3
-- logo/red_transparent_4096.png: PNG image data, 4096 x 4096, 8-bit/color RGBA, non-interlaced
-- logo/red_transparent_4096.svg: SVG Scalable Vector Graphics image
-- logo/red_transparent_512.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 512x512, components 3
-- logo/red_transparent_512.png: PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced
-- logo/red_transparent_512.svg: SVG Scalable Vector Graphics image
-- logo/red_transparent_64.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 65x64, components 3
-- logo/red_transparent_64.png: PNG image data, 65 x 64, 8-bit/color RGBA, non-interlaced
-- logo/red_transparent_64.svg: SVG Scalable Vector Graphics image
+![Logo](/logo/blue_transparent_256.png "Logo")
+
+- `logo/blue_full_1024.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1024x1024, components 3*
+- `logo/blue_full_1024.png`: *PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_full_1024.svg`: *SVG Scalable Vector Graphics image*
+- `logo/blue_full_128.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 128x128, components 3*
+- `logo/blue_full_128.png`: *PNG image data, 128 x 128, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_full_128.svg`: *SVG Scalable Vector Graphics image*
+- `logo/blue_full_2048.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 2048x2048, components 3*
+- `logo/blue_full_2048.png`: *PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_full_2048.svg`: *SVG Scalable Vector Graphics image*
+- `logo/blue_full_256.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 256x256, components 3*
+- `logo/blue_full_256.png`: *PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_full_256.svg`: *SVG Scalable Vector Graphics image*
+- `logo/blue_full_32.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 32x32, components 3*
+- `logo/blue_full_32.png`: *PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_full_32.svg`: *SVG Scalable Vector Graphics image*
+- `logo/blue_full_4096.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 4096x4096, components 3*
+- `logo/blue_full_4096.png`: *PNG image data, 4096 x 4096, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_full_4096.svg`: *SVG Scalable Vector Graphics image*
+- `logo/blue_full_512.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 512x512, components 3*
+- `logo/blue_full_512.png`: *PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_full_512.svg`: *SVG Scalable Vector Graphics image*
+- `logo/blue_full_64.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 64x64, components 3*
+- `logo/blue_full_64.png`: *PNG image data, 64 x 64, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_full_64.svg`: *SVG Scalable Vector Graphics image*
+- `logo/blue_transparent_1024.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1024x1024, components 3*
+- `logo/blue_transparent_1024.png`: *PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_transparent_1024.svg`: *SVG Scalable Vector Graphics image*
+- `logo/blue_transparent_128.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 129x128, components 3*
+- `logo/blue_transparent_128.png`: *PNG image data, 129 x 128, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_transparent_128.svg`: *SVG Scalable Vector Graphics image*
+- `logo/blue_transparent_2048.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 2048x2048, components 3*
+- `logo/blue_transparent_2048.png`: *PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_transparent_2048.svg`: *SVG Scalable Vector Graphics image*
+- `logo/blue_transparent_256.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 257x256, components 3*
+- `logo/blue_transparent_256.png`: *PNG image data, 257 x 256, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_transparent_256.svg`: *SVG Scalable Vector Graphics image*
+- `logo/blue_transparent_32.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 33x32, components 3*
+- `logo/blue_transparent_32.png`: *PNG image data, 33 x 32, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_transparent_32.svg`: *SVG Scalable Vector Graphics image*
+- `logo/blue_transparent_4096.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 4096x4096, components 3*
+- `logo/blue_transparent_4096.png`: *PNG image data, 4096 x 4096, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_transparent_4096.svg`: *SVG Scalable Vector Graphics image*
+- `logo/blue_transparent_512.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 512x512, components 3*
+- `logo/blue_transparent_512.png`: *PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_transparent_512.svg`: *SVG Scalable Vector Graphics image*
+- `logo/blue_transparent_64.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 65x64, components 3*
+- `logo/blue_transparent_64.png`: *PNG image data, 65 x 64, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_transparent_64.svg`: *SVG Scalable Vector Graphics image*
+- `logo/dark_full_1024.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1024x1024, components 3*
+- `logo/dark_full_1024.png`: *PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced*
+- `logo/dark_full_1024.svg`: *SVG Scalable Vector Graphics image*
+- `logo/dark_full_128.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 129x128, components 3*
+- `logo/dark_full_128.png`: *PNG image data, 129 x 128, 8-bit/color RGBA, non-interlaced*
+- `logo/dark_full_128.svg`: *SVG Scalable Vector Graphics image*
+- `logo/dark_full_2048.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 2048x2048, components 3*
+- `logo/dark_full_2048.png`: *PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced*
+- `logo/dark_full_2048.svg`: *SVG Scalable Vector Graphics image*
+- `logo/dark_full_256.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 256x256, components 3*
+- `logo/dark_full_256.png`: *PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced*
+- `logo/dark_full_256.svg`: *SVG Scalable Vector Graphics image*
+- `logo/dark_full_32.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 33x32, components 3*
+- `logo/dark_full_32.png`: *PNG image data, 33 x 32, 8-bit/color RGBA, non-interlaced*
+- `logo/dark_full_32.svg`: *SVG Scalable Vector Graphics image*
+- `logo/dark_full_4096.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 4096x4096, components 3*
+- `logo/dark_full_4096.png`: *PNG image data, 4096 x 4096, 8-bit/color RGBA, non-interlaced*
+- `logo/dark_full_4096.svg`: *SVG Scalable Vector Graphics image*
+- `logo/dark_full_512.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 512x512, components 3*
+- `logo/dark_full_512.png`: *PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced*
+- `logo/dark_full_512.svg`: *SVG Scalable Vector Graphics image*
+- `logo/dark_full_64.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 65x64, components 3*
+- `logo/dark_full_64.png`: *PNG image data, 65 x 64, 8-bit/color RGBA, non-interlaced*
+- `logo/dark_full_64.svg`: *SVG Scalable Vector Graphics image*
+- `logo/dark_transparent_1024.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1024x1024, components 3*
+- `logo/dark_transparent_1024.png`: *PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced*
+- `logo/dark_transparent_1024.svg`: *SVG Scalable Vector Graphics image*
+- `logo/dark_transparent_128.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 129x128, components 3*
+- `logo/dark_transparent_128.png`: *PNG image data, 129 x 128, 8-bit/color RGBA, non-interlaced*
+- `logo/dark_transparent_128.svg`: *SVG Scalable Vector Graphics image*
+- `logo/dark_transparent_2048.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 2048x2048, components 3*
+- `logo/dark_transparent_2048.png`: *PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced*
+- `logo/dark_transparent_2048.svg`: *SVG Scalable Vector Graphics image*
+- `logo/dark_transparent_256.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 257x256, components 3*
+- `logo/dark_transparent_256.png`: *PNG image data, 257 x 256, 8-bit/color RGBA, non-interlaced*
+- `logo/dark_transparent_256.svg`: *SVG Scalable Vector Graphics image*
+- `logo/dark_transparent_32.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 33x32, components 3*
+- `logo/dark_transparent_32.png`: *PNG image data, 33 x 32, 8-bit/color RGBA, non-interlaced*
+- `logo/dark_transparent_32.svg`: *SVG Scalable Vector Graphics image*
+- `logo/dark_transparent_4096.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 4096x4096, components 3*
+- `logo/dark_transparent_4096.png`: *PNG image data, 4096 x 4096, 8-bit/color RGBA, non-interlaced*
+- `logo/dark_transparent_4096.svg`: *SVG Scalable Vector Graphics image*
+- `logo/dark_transparent_512.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 512x512, components 3*
+- `logo/dark_transparent_512.png`: *PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced*
+- `logo/dark_transparent_512.svg`: *SVG Scalable Vector Graphics image*
+- `logo/dark_transparent_64.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 65x64, components 3*
+- `logo/dark_transparent_64.png`: *PNG image data, 65 x 64, 8-bit/color RGBA, non-interlaced*
+- `logo/dark_transparent_64.svg`: *SVG Scalable Vector Graphics image*
+- `logo/light_full_1024.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1024x1024, components 3*
+- `logo/light_full_1024.png`: *PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced*
+- `logo/light_full_1024.svg`: *SVG Scalable Vector Graphics image*
+- `logo/light_full_128.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 129x128, components 3*
+- `logo/light_full_128.png`: *PNG image data, 129 x 128, 8-bit/color RGBA, non-interlaced*
+- `logo/light_full_128.svg`: *SVG Scalable Vector Graphics image*
+- `logo/light_full_2048.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 2048x2048, components 3*
+- `logo/light_full_2048.png`: *PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced*
+- `logo/light_full_2048.svg`: *SVG Scalable Vector Graphics image*
+- `logo/light_full_256.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 256x256, components 3*
+- `logo/light_full_256.png`: *PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced*
+- `logo/light_full_256.svg`: *SVG Scalable Vector Graphics image*
+- `logo/light_full_32.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 33x32, components 3*
+- `logo/light_full_32.png`: *PNG image data, 33 x 32, 8-bit/color RGBA, non-interlaced*
+- `logo/light_full_32.svg`: *SVG Scalable Vector Graphics image*
+- `logo/light_full_4096.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 4096x4096, components 3*
+- `logo/light_full_4096.png`: *PNG image data, 4096 x 4096, 8-bit/color RGBA, non-interlaced*
+- `logo/light_full_4096.svg`: *SVG Scalable Vector Graphics image*
+- `logo/light_full_512.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 512x512, components 3*
+- `logo/light_full_512.png`: *PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced*
+- `logo/light_full_512.svg`: *SVG Scalable Vector Graphics image*
+- `logo/light_full_64.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 65x64, components 3*
+- `logo/light_full_64.png`: *PNG image data, 65 x 64, 8-bit/color RGBA, non-interlaced*
+- `logo/light_full_64.svg`: *SVG Scalable Vector Graphics image*
+- `logo/light_transparent_1024.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1024x1024, components 3*
+- `logo/light_transparent_1024.png`: *PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced*
+- `logo/light_transparent_1024.svg`: *SVG Scalable Vector Graphics image*
+- `logo/light_transparent_128.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 129x128, components 3*
+- `logo/light_transparent_128.png`: *PNG image data, 129 x 128, 8-bit/color RGBA, non-interlaced*
+- `logo/light_transparent_128.svg`: *SVG Scalable Vector Graphics image*
+- `logo/light_transparent_2048-1.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 2048x2048, components 3*
+- `logo/light_transparent_2048-1.png`: *PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced*
+- `logo/light_transparent_2048-1.svg`: *SVG Scalable Vector Graphics image*
+- `logo/light_transparent_2048.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 4096x4096, components 3*
+- `logo/light_transparent_2048.png`: *PNG image data, 4096 x 4096, 8-bit/color RGBA, non-interlaced*
+- `logo/light_transparent_2048.svg`: *SVG Scalable Vector Graphics image*
+- `logo/light_transparent_256.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 257x256, components 3*
+- `logo/light_transparent_256.png`: *PNG image data, 257 x 256, 8-bit/color RGBA, non-interlaced*
+- `logo/light_transparent_256.svg`: *SVG Scalable Vector Graphics image*
+- `logo/light_transparent_32.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 33x32, components 3*
+- `logo/light_transparent_32.png`: *PNG image data, 33 x 32, 8-bit/color RGBA, non-interlaced*
+- `logo/light_transparent_32.svg`: *SVG Scalable Vector Graphics image*
+- `logo/light_transparent_512.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 512x512, components 3*
+- `logo/light_transparent_512.png`: *PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced*
+- `logo/light_transparent_512.svg`: *SVG Scalable Vector Graphics image*
+- `logo/light_transparent_64.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 65x64, components 3*
+- `logo/light_transparent_64.png`: *PNG image data, 65 x 64, 8-bit/color RGBA, non-interlaced*
+- `logo/light_transparent_64.svg`: *SVG Scalable Vector Graphics image*
+- `logo/red_full_1024.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1024x1024, components 3*
+- `logo/red_full_1024.png`: *PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced*
+- `logo/red_full_1024.svg`: *SVG Scalable Vector Graphics image*
+- `logo/red_full_128.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 128x128, components 3*
+- `logo/red_full_128.png`: *PNG image data, 128 x 128, 8-bit/color RGBA, non-interlaced*
+- `logo/red_full_128.svg`: *SVG Scalable Vector Graphics image*
+- `logo/red_full_2048.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 2048x2048, components 3*
+- `logo/red_full_2048.png`: *PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced*
+- `logo/red_full_2048.svg`: *SVG Scalable Vector Graphics image*
+- `logo/red_full_256.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 256x256, components 3*
+- `logo/red_full_256.png`: *PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced*
+- `logo/red_full_256.svg`: *SVG Scalable Vector Graphics image*
+- `logo/red_full_32.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 33x32, components 3*
+- `logo/red_full_32.png`: *PNG image data, 33 x 32, 8-bit/color RGBA, non-interlaced*
+- `logo/red_full_32.svg`: *SVG Scalable Vector Graphics image*
+- `logo/red_full_4096.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 4096x4096, components 3*
+- `logo/red_full_4096.png`: *PNG image data, 4096 x 4096, 8-bit/color RGBA, non-interlaced*
+- `logo/red_full_4096.svg`: *SVG Scalable Vector Graphics image*
+- `logo/red_full_512.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 512x512, components 3*
+- `logo/red_full_512.png`: *PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced*
+- `logo/red_full_512.svg`: *SVG Scalable Vector Graphics image*
+- `logo/red_full_64.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 65x64, components 3*
+- `logo/red_full_64.png`: *PNG image data, 65 x 64, 8-bit/color RGBA, non-interlaced*
+- `logo/red_full_64.svg`: *SVG Scalable Vector Graphics image*
+- `logo/red_transparent_1024.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1024x1024, components 3*
+- `logo/red_transparent_1024.png`: *PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced*
+- `logo/red_transparent_1024.svg`: *SVG Scalable Vector Graphics image*
+- `logo/red_transparent_128.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 129x128, components 3*
+- `logo/red_transparent_128.png`: *PNG image data, 129 x 128, 8-bit/color RGBA, non-interlaced*
+- `logo/red_transparent_128.svg`: *SVG Scalable Vector Graphics image*
+- `logo/red_transparent_2048.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 2048x2048, components 3*
+- `logo/red_transparent_2048.png`: *PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced*
+- `logo/red_transparent_2048.svg`: *SVG Scalable Vector Graphics image*
+- `logo/red_transparent_256.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 257x256, components 3*
+- `logo/red_transparent_256.png`: *PNG image data, 257 x 256, 8-bit/color RGBA, non-interlaced*
+- `logo/red_transparent_256.svg`: *SVG Scalable Vector Graphics image*
+- `logo/red_transparent_32.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 33x32, components 3*
+- `logo/red_transparent_32.png`: *PNG image data, 33 x 32, 8-bit/color RGBA, non-interlaced*
+- `logo/red_transparent_32.svg`: *SVG Scalable Vector Graphics image*
+- `logo/red_transparent_4096.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 4096x4096, components 3*
+- `logo/red_transparent_4096.png`: *PNG image data, 4096 x 4096, 8-bit/color RGBA, non-interlaced*
+- `logo/red_transparent_4096.svg`: *SVG Scalable Vector Graphics image*
+- `logo/red_transparent_512.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 512x512, components 3*
+- `logo/red_transparent_512.png`: *PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced*
+- `logo/red_transparent_512.svg`: *SVG Scalable Vector Graphics image*
+- `logo/red_transparent_64.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 65x64, components 3*
+- `logo/red_transparent_64.png`: *PNG image data, 65 x 64, 8-bit/color RGBA, non-interlaced*
+- `logo/red_transparent_64.svg`: *SVG Scalable Vector Graphics image*
+

@@ -4,42 +4,40 @@ set -e
 
 create_readme() {
 
-    echo "# logo" > "README.md"
+    echo "# Logo" > "README.md"
     echo ""  >> "README.md"
     echo "![Elmasy Logo](/logo/blue_transparent_256.png \"Elmasy Logo\")"  >> "README.md"
     echo "" >> "README.md"
 
-    echo "## cover"  >> "README.md"
+    echo "## \`cover/\`"  >> "README.md"
     echo ""  >> "README.md"
     echo "OG / Twitter cover images."  >> "README.md"
+    echo ""  >> "README.md"
+    echo "![Cover](cover/blue_dark.jpg \"Elmasy Cover\")"  >> "README.md"
     echo ""  >> "README.md"
 
     for FILE in cover/*
     do
-        if [ "$FILE" == "README.md" ]
-        then
-            continue
-        fi
-
-        echo "- $(/usr/bin/file $FILE)" >> "README.md"
-
+        echo "- \`$FILE\`: *$(/usr/bin/file --brief $FILE)*" >> "README.md"
     done
 
-    echo "## logo"  >> "README.md"
+    echo ""  >> "README.md"
+
+
+    echo "## \`logo/\`"  >> "README.md"
     echo ""  >> "README.md"
     echo "Square logos"  >> "README.md"
+    echo ""  >> "README.md"
+    echo "![Logo](/logo/blue_transparent_256.png \"Logo\")"  >> "README.md"
     echo ""  >> "README.md"
 
     for FILE in logo/*
     do
-        if [ "$FILE" == "README.md" ]
-        then
-            continue
-        fi
-
-        echo "- $(/usr/bin/file $FILE)" >> "README.md"
-
+        echo "- \`$FILE\`: *$(/usr/bin/file --brief $FILE)*" >> "README.md"
     done
+
+    echo ""  >> "README.md"
+
 }
 
 print_help() {
