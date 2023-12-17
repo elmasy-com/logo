@@ -69,6 +69,10 @@ Square logos
 - `logo/blue_transparent_64.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 65x64, components 3*
 - `logo/blue_transparent_64.png`: *PNG image data, 65 x 64, 8-bit/color RGBA, non-interlaced*
 - `logo/blue_transparent_64.svg`: *SVG Scalable Vector Graphics image*
+- `logo/blue_transparent_noborder_1024.png`: *PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_transparent_noborder_2048.png`: *PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_transparent_noborder_512.png`: *PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced*
+- `logo/blue_transparent_noborder.svg`: *SVG Scalable Vector Graphics image*
 - `logo/dark_full_1024.jpg`: *JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1024x1024, components 3*
 - `logo/dark_full_1024.png`: *PNG image data, 1024 x 1024, 8-bit/color RGBA, non-interlaced*
 - `logo/dark_full_1024.svg`: *SVG Scalable Vector Graphics image*
