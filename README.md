@@ -1,5 +1,7 @@
 # Logo
 
+Logos for [Elmasy](https://www.elmasy.com) designed by [Daniel Gorbe](https://www.gorbe.io/).
+
 ![Elmasy Logo](/logo/blue_transparent_256.png "Elmasy Logo")
 
 ## `cover/`
@@ -222,3 +224,4 @@ Square logos
 - `logo/red_transparent_noborder_512.png`: *PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced*
 - `logo/red_transparent_noborder.svg`: *SVG Scalable Vector Graphics image*
 
+[System administrator service and Cybersecurity for small and medium-sized businesses in and around Győr.](https://www.gorbe.io/)
